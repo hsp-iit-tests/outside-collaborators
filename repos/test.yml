@@ -1,3 +1,4 @@
-  hsp-iit/ergocub:
-    type: "group"
-    permissions: "read"
+  test:
+    hsp-iit/ergocub:
+      type: "group"
+      permissions: "read"
